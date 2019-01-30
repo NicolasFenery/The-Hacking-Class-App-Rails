@@ -1,24 +1,16 @@
-# README
+# Hacking Class
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Description du Projet :pushpin:
 
-Things you may want to cover:
+Une application rails type site d'éducation en ligne. L'appli lie deux tableaux ; Course && Student.\
+Dans cet app, les élèves peuvent s'inscrire à un seul cours mais un cours peut avoir plusieurs élèves.
 
-* Ruby version
+# Diagramme :pencil2:
 
-* System dependencies
+![alt text](https://github.com/NicolasFenery/The-Hacking-Class-App-Rails/blob/master/Hacking%20Class%20ERD.jpeg)
 
-* Configuration
 
-* Database creation
+# Réalisé par :fire:
 
-* Database initialization
+Nicolas && Manon Fenery
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
